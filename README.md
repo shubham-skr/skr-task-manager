@@ -1,2 +1,14 @@
-# task-manager-app
-Node JS and Express JS Project - Task Manager App
+# skr-task-manager
+###### NodeJS & ExpressJS Project - Task Manager App
+
+### Introduction
+
+
+### Technology used 
+
+
+### Features 
+
+
+### Description 
+
