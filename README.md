@@ -1,5 +1,5 @@
 # skr-task-manager
-###### Node.js | Express project - Task Manager App
+###### NODE.JS | EXPRESS project - Task Manager App
 
 ### Introduction
 
